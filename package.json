@@ -2,8 +2,9 @@
   "name": "waqar_currency_converter",
   "version": "1.0.0",
   "description": "It is my PIAIC project currency Converter",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
+  "bin" : "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
