@@ -1,5 +1,5 @@
 {
-  "name": "currency_converter",
+  "name": "waqar_currency_converter",
   "version": "1.0.0",
   "description": "It is my PIAIC project currency Converter",
   "main": "index.js",
@@ -16,5 +16,13 @@
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waqaraslam1997/currency_converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/waqaraslam1997/currency_converter/issues"
+  },
+  "homepage": "https://github.com/waqaraslam1997/currency_converter#readme"
 }
